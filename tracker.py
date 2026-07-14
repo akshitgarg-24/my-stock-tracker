@@ -1,4 +1,3 @@
-```python
 import os
 import requests
 from playwright.sync_api import sync_playwright
@@ -161,4 +160,3 @@ def start_tracking():
 
 if __name__ == "__main__":
     start_tracking()
-```
